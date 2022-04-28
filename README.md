@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hurado
 - 👀 I’m interested in Frontend, making websites and apps.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on opensource, like The Odin Projects.
+- 🌱 I’m currently learning Javascript/React/NextJS
+- 💞️ I’m looking to collaborate on opensource, like The Odin Projects and work/internship
 - 📫 How to reach me : piaszczynskiarkadiusz@gmail.com
 
 <!---
